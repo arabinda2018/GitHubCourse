@@ -7,7 +7,4 @@ int count =4;
 		System.out.println(true);
 	System.out.println(count);
 	}
-
-
-
 }
